@@ -143,3 +143,5 @@ vite.config.ts.timestamp-*
 
 # macOS hidden files
 .DS_Store
+
+cheatsheet.js
